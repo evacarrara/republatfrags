@@ -12,7 +12,7 @@ This repository aims to contain usable plain text files of Latin authors who ext
 * <<@>> sets off CAPITAL headwords 
 * ?# sets off subheadings
 * <<%>> intros grammatical topics
-
+* j* is a dagger/obelisk 
 
 ## Updates:
 * 3/23: created the repo and wrote more about it [here](https://evacarrara.github.io/evacarrara/2021/03/23/nonius-marcellus-plain-texts.html)
