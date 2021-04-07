@@ -15,4 +15,5 @@ This repository aims to contain usable plain text files of Latin authors who ext
 * j* is a dagger/obelisk 
 
 ## Updates:
+* 4/2: added the tabularized Nonius and wrote more about it [here](https://evacarrara.github.io/evacarrara/2021/04/02/making-nonius-tabular.html). Updated the plain text.
 * 3/23: created the repo and wrote more about it [here](https://evacarrara.github.io/evacarrara/2021/03/23/nonius-marcellus-plain-texts.html)
